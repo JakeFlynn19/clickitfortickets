@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  .image-container {
+    background-image: url('https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/2016/09/06105011/ticket-giveaways.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 55vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  h1 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size: 65px;
+    text-align: center;
+  }
+  small {
+      font-size: 35px;
+  }
+  .header-bottom {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+  }
+  .middle {
+    text-align: center;
+    padding: 40px;
+    line-height: 80px;
+    font-size: 40px;
+    border-bottom: 1px solid grey;
+  }
+  .row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 150px;
+  }
+  .column {
+    margin: 15px;
+  }
+  .column h4 {
+      text-align: center;
+  }
+  .column img {
+    width: 100%;
+  }
+  .row p {
+    color: lightgrey;
+    line-height: 25px;
+    font-size: 18px;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  .banner {
+    color: lightgrey;
+    font-style: italic;
+  }
+  footer {
+    text-align: center;
+    border-top: 1px solid grey;
+  }
