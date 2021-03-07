@@ -10,11 +10,9 @@ An easy way for consumers to find tickets to their favorite events, anywhere in 
 - Ticketmaster API
 - Github Pages (for deployment)
 
-## Screenshots
-
-
-## Getting Started
-
+## Features
+- Search for events based on location, team name, or artist name.
+- Receive direct link to purchase through Tickemaster.
 
 ## Future Enhancements
 
