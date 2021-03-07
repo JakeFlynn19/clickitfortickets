@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: sans-serif;
+    background-image: linear-gradient(#93a5cf, #e4efe9);
   }
   .image-container {
     background-image: url('https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/2016/09/06105011/ticket-giveaways.jpg');
@@ -63,4 +64,7 @@ body {
   footer {
     text-align: center;
     border-top: 1px solid grey;
+  }
+  .url {
+    color: blue;
   }
