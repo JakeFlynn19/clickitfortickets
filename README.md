@@ -14,6 +14,8 @@ An easy way for consumers to find tickets to their favorite events, anywhere in 
 - Search for events based on location, team name, or artist name.
 - Receive direct link to purchase through Tickemaster.
 
-## Future Enhancements
-
+## Getting Started
 [Click](https://clickitfortickets-jakeflynn19.vercel.app/) here to get started and see the app online!
+
+## Future Enhancements
+- Multiple search results
