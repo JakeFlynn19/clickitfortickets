@@ -16,4 +16,4 @@ An easy way for consumers to find tickets to their favorite events, anywhere in 
 
 ## Future Enhancements
 
-[Click](#) here to get started and see the app online!
+[Click](https://clickitfortickets-jakeflynn19.vercel.app/) here to get started and see the app online!
